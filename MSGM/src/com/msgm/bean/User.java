@@ -8,4 +8,5 @@ public class User {
   private String address; 
   private String lee;
   private String rao;
+  private String sun;
 }
