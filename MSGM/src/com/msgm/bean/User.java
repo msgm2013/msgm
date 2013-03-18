@@ -5,5 +5,6 @@ public class User {
   private Integer sex;
   private String username;
   private String wings;
-  private String address;
+  private String address; 
+  private String lee;
 }
