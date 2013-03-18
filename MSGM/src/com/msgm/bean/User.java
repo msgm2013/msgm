@@ -7,4 +7,5 @@ public class User {
   private String wings;
   private String address; 
   private String lee;
+  private String rao;
 }
